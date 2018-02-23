@@ -110,6 +110,8 @@ body {
   .content{
     margin: 0 auto;
     max-width: 100%;
+    border-left: none;
+    border-top: 3px solid #9f926e;
   }
 }
 
